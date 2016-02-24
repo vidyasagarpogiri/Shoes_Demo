@@ -1,16 +1,16 @@
-# sample program for Shoes
+# sample program for Shoes desktop app
 
 require 'green_shoes'
 
 Shoes.app do
-  para "Hello World"
-#end
+  para 'Hello World'
+  # end
 
-#Shoes.app do
-   self.stack do
-    self.para "____________"
-     self.para "First"
-     self.para "Second"
-     self.para "Third"
-   end
- end
+  # Shoes.app do
+  stack do
+    para '____________'
+    para 'First'
+    para 'Second'
+    para 'Third'
+  end
+end
