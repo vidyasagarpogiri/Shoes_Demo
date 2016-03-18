@@ -1,4 +1,4 @@
-# sample program for Shoes desktop application
+# sample program for Shoes desktop app
 
 require 'green_shoes'
 
