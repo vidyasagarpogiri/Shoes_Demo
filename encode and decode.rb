@@ -1,3 +1,5 @@
+#encode & decode of string
+
 irb(main):005:0> require "base64"
 => true
 irb(main):006:0> Base64.encode64('Send reinforcements')
