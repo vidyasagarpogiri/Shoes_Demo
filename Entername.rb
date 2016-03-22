@@ -7,7 +7,7 @@ Shoes.app do
   fill darkblue
   arrow 10, 10, 100
   fill red
-  rect 10, 100, 100
+  rect 10, 100, 100 # for rectangle
   fill yellow
   oval 10, 200, 50
   strokewidth(2)
