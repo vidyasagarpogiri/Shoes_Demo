@@ -1,5 +1,5 @@
 # drawing.rb
-# Show how to draw basic shapes in Shoes app in Ruby App
+# Show how to draw basic shapes in Shoes app in Ruby Application
 require 'green_shoes'
 
 Shoes.app do
