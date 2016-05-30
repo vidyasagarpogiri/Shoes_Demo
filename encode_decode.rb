@@ -1,4 +1,4 @@
-# encode & decode of string in ruby app for encryption  and decryption
+# encode & decode of string in ruby  application for encryption  and decryption
 
 irb(main):005:0> require "base64"
 => true
