@@ -1,4 +1,4 @@
-# sample program for desktop  app using Ruby
+# sample program for desktop  application using Ruby
 
 require 'green_shoes'
 
