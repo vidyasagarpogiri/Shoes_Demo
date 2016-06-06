@@ -1,1 +1,1 @@
-this is a help text file
+this is a help text file for running the application 
